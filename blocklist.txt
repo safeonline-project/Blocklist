@@ -917,7 +917,6 @@ http://188.241.62.243/133709/arm
 http://n8n.heroxhost.com/baby.sh
 http://insaim10.prosuperservers.com/baby.sh
 http://188.241.62.243/baby.sh
-КР ᅟ, [22.10.2025 22:20]
 http://69.62.73.46/c.sh
 http://69.62.73.46/wget.sh
 http://69.62.73.46/w.sh
