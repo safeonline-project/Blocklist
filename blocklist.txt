@@ -905,7 +905,8 @@ http://n8n.heroxhost.com/133709/m68k
 http://n8n.heroxhost.com/133709/mpsl
 http://n8n.heroxhost.com/133709/x86
 http://n8n.heroxhost.com/133709/arm
-http://188.241.62.243/133709/arm7 http://188.241.62.243/133709/mips
+http://188.241.62.243/133709/arm7
+http://188.241.62.243/133709/mips
 http://188.241.62.243/133709/sh4
 http://188.241.62.243/133709/arm6
 http://188.241.62.243/133709/arc
